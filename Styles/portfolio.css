@@ -1,4 +1,5 @@
 /* common shared styles */
+
 body {
     font-family: 'Open Sans', sans-serif;
 }
@@ -27,6 +28,8 @@ body {
     font-size: 18px;
     font-weight: 400;
 }
+
+
 
 /* navBar related styles */
 
@@ -63,6 +66,8 @@ nav a {
     text-decoration: none;
     color: #474747;
 }
+
+
 
 /* header related styles */
 
@@ -118,17 +123,23 @@ nav a {
     font-weight: 400;
 }
 
+
+
 /* Main Section Styles */
+
 main {
     max-width: 1140px;
     margin: 0px auto;
 }
+
 main section {
     margin-top: 130px;
 }
 
 
+
 /* About Section Styles */
+
 .about {
     padding: 130px;
     border-radius: 10px;
@@ -147,8 +158,8 @@ main section {
     text-align: center;
     font-size: 20px;
     font-weight: 400;
-
 }
+
 
 .about-title {
     margin-bottom: 0;
@@ -161,10 +172,12 @@ main section {
 }
 
 
+
+
 /* what i do related styles  */
 
 #what-i-do-description {
-    padding: 0px  150px 30px;
+    padding: 0px 150px 30px;
 }
 
 .skills-container {
@@ -179,17 +192,22 @@ main section {
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
 
-
 .skill-title {
     color: #181818;
     font-size: 20px;
     font-weight: 700;
 }
 
-
-
 .skill-description {
     color: #757575;
     font-size: 16px;
     font-weight: 400;
+}
+
+/* Resume-section styles  */
+
+.resume-column-title {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
 }
