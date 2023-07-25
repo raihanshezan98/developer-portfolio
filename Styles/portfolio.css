@@ -208,7 +208,7 @@ main section {
 
 /* Resume-section styles  */
 
-.resume-container{
+.resume-container {
     margin-top: 100px;
 }
 
@@ -222,7 +222,7 @@ main section {
     color: #474747;
     font-size: 30px;
     font-weight: 700;
-    
+
 }
 
 .resume-container {
@@ -251,7 +251,18 @@ main section {
     font-weight: 400;
 }
 
-.download-cv{
+.download-cv {
     text-align: center;
     margin-top: 50px;
+}
+
+
+
+/* footer styles  */
+
+footer {
+    display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 230px;
+    margin-top: 100px;
 }
